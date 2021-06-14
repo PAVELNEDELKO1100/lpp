@@ -1,0 +1,204 @@
+{
+	"1": {
+		"users": {
+			"1": {
+				"ban": false,
+				"gold": 1233,
+				"donate": 200000000,
+				"card": 0,
+				"level": 1,
+				"exs": 20,
+				"admin": 9,
+				"id": 553181712,
+				"hero": {
+					"id": "5",
+					"name": "Командир",
+					"prefix": "Админ",
+					"hp": 0,
+					"zashita": 0,
+					"ataka": 0,
+					"kr_udar": 0,
+					"navik": {
+						"id": false,
+						"name": false,
+						"count": false
+					},
+					"up": false,
+					"gun": false
+				},
+				"res": {
+					"tree": 145,
+					"stone": 126
+				},
+				"objects": {
+					"lesopilka": 0,
+					"kamenolom": 0,
+					"gold": 0,
+					"hp": false,
+					"zashita": false,
+					"ataka": false,
+					"kr_udar": false
+				},
+				"limits": {
+					"stroyka": false,
+					"id": false,
+					"bonus": false,
+					"war": false,
+					"les": false
+				},
+				"msg": 0,
+				"refka": {
+					"activ": false,
+					"level": 1,
+					"lvl_up": 5,
+					"users": {},
+					"dohod": 10,
+					"count": 0,
+					"bonus": {
+						"tree": 100,
+						"stone": 50,
+						"gold": 10
+					},
+					"cod": 37174
+				},
+				"clan": false,
+				"registr": "actived",
+				"vip": 0,
+				"rtime": "14:46:17 | 14:06:2018"
+			},
+			"2": {
+				"ban": false,
+				"gold": 100,
+				"donate": 0,
+				"card": 1,
+				"level": 1,
+				"exs": 60,
+				"admin": 0,
+				"id": 517532349,
+				"hero": {
+					"id": "1",
+					"name": "Маг",
+					"prefix": "Алекс",
+					"hp": 11,
+					"zashita": 26,
+					"ataka": 27,
+					"kr_udar": 0,
+					"navik": {
+						"id": false,
+						"name": false,
+						"count": false
+					},
+					"up": false,
+					"gun": false
+				},
+				"res": {
+					"tree": 1000,
+					"stone": 0
+				},
+				"objects": {
+					"lesopilka": 0,
+					"kamenolom": 0,
+					"gold": 0,
+					"hp": false,
+					"zashita": false,
+					"ataka": false,
+					"kr_udar": false
+				},
+				"limits": {
+					"stroyka": false,
+					"id": false,
+					"bonus": false,
+					"war": false,
+					"les": false
+				},
+				"msg": 0,
+				"refka": {
+					"activ": false,
+					"level": 1,
+					"lvl_up": 5,
+					"users": {},
+					"dohod": 10,
+					"count": 0,
+					"bonus": {
+						"tree": 100,
+						"stone": 50,
+						"gold": 10
+					},
+					"cod": 81337
+				},
+				"clan": false,
+				"registr": "actived",
+				"vip": 0,
+				"rtime": "15:17:19 | 14:06:2018"
+			},
+			"3": {
+				"ban": false,
+				"gold": 0,
+				"donate": 0,
+				"card": 0,
+				"level": 1,
+				"exs": 0,
+				"admin": 0,
+				"id": 484453491,
+				"hero": {
+					"id": "6",
+					"name": "Божество",
+					"prefix": false,
+					"hp": 0,
+					"zashita": 0,
+					"ataka": 0,
+					"kr_udar": 0,
+					"navik": {
+						"id": false,
+						"name": false,
+						"count": false
+					},
+					"up": false,
+					"gun": false
+				},
+				"res": {
+					"tree": 0,
+					"stone": 0
+				},
+				"objects": {
+					"lesopilka": 0,
+					"kamenolom": 0,
+					"gold": 0,
+					"hp": false,
+					"zashita": false,
+					"ataka": false,
+					"kr_udar": false
+				},
+				"limits": {
+					"stroyka": false,
+					"id": false,
+					"bonus": false,
+					"war": false,
+					"les": false
+				},
+				"msg": 0,
+				"refka": {
+					"activ": false,
+					"level": 1,
+					"lvl_up": 5,
+					"users": {},
+					"dohod": 10,
+					"count": 0,
+					"bonus": {
+						"tree": 100,
+						"stone": 50,
+						"gold": 10
+					},
+					"cod": 40151
+				},
+				"clan": false,
+				"registr": false,
+				"vip": 0,
+				"rtime": "15:18:45 | 14:06:2018"
+			}
+		},
+		"number": 3,
+		"name": false,
+		"imperator": false
+	}
+}
